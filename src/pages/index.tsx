@@ -17,7 +17,7 @@ export default function IndexPage({ data }: PageProps<Queries.StickersQuery>) {
             <Link to={`/product/${sticker.id}`}>
               <h2>{sticker.name}</h2>
             </Link>
-            <h4>{sticker.price}</h4>
+            <h4>${sticker.price}</h4>
           </article>
         ))}
       </div>
