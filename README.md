@@ -6,10 +6,10 @@
 
 [DevStickers](https://dev-sticker.netlify.app/)
 
-![Home - Stickers](../../../../Downloads/1.png)
+![Home - Stickers](src/images/1.png)
 
-![Home - Sticker_Detail](../../../../Downloads/2.png)
+![Home - Sticker_Detail](src/images/2.png)
 
-![Blog - Posts](../../../../Downloads/3.png)
+![Blog - Posts](src/images/3.png)
 
-![Blog - Post_Detail](../../../../Downloads/4.png)
+![Blog - Post_Detail](src/images/4.png)
